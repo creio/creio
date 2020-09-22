@@ -9,6 +9,13 @@
   </a>
 </p>
 
+---
+
+- ⚡ [Ctlos Linux](https://ctrlos.github.io)
+- 💬 [@cretm](https://t.me/cretm)
+- 💬 [keybase.io/cvc](https://keybase.io/cvc)
+- 😄 [r/unixporn](https://www.reddit.com/r/unixporn/search?q=author%3Adrcry&sort=new&restrict_sr=on&t=all)
+
 
 <!--
 **creio/creio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
