@@ -1,20 +1,12 @@
 <h1 align="center">✨⚡ <code>~/</code></h1>
 
-<p align="center"
-  <a target="_blank" href="https://www.youtube.com/watch?v=gC5yvQnroRk">
-    <img align="center" src="https://img.youtube.com/vi/gC5yvQnroRk/0.jpg" />
-  </a>
-</p>
+[![Dots](https://github-readme-stats.vercel.app/api?username=creio&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight)](https://github.com/creio/dots)
 
+[![ArchLinux Openbox](https://img.youtube.com/vi/gC5yvQnroRk/0.jpg)](https://www.youtube.com/watch?v=gC5yvQnroRk)
   
   <!-- <a target="_blank" href="hhttps://raw.githubusercontent.com/creio/dots/master/docs/screen/ob1.png">
     <img align="center" src="https://raw.githubusercontent.com/creio/dots/master/docs/screen/ob1.png" />
   </a> -->
-  
-<p align="center">
-  <a href="https://github.com/creio/dots">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=creio&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" />
-</p>
 
 ---
 
