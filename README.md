@@ -1,4 +1,4 @@
-<h1 align="center">✨⚡ <code>~/</code></h1>
+<h1>✨⚡ <code>~/</code></h1>
 
 [![Dots](https://github-readme-stats.vercel.app/api?username=creio&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight)](https://github.com/creio/dots)
 
