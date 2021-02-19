@@ -1,7 +1,5 @@
 <h1>✨⚡ <code>~/</code></h1>
 
-[![Dots](https://github-readme-stats.vercel.app/api?username=creio&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight)](https://github.com/creio/dots)
-
 [![ArchLinux Openbox](https://img.youtube.com/vi/gC5yvQnroRk/0.jpg)](https://www.youtube.com/watch?v=gC5yvQnroRk)
   
   <!-- <a target="_blank" href="hhttps://raw.githubusercontent.com/creio/dots/master/docs/screen/ob1.png">
