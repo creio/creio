@@ -1,8 +1,8 @@
 <h1>✨⚡ <code>~/</code></h1>
 
-[![ArchLinux Openbox](https://img.youtube.com/vi/gC5yvQnroRk/0.jpg)](https://www.youtube.com/watch?v=gC5yvQnroRk)
+<!--[![ArchLinux Openbox](https://img.youtube.com/vi/gC5yvQnroRk/0.jpg)](https://www.youtube.com/watch?v=gC5yvQnroRk)
   
-  <!-- <a target="_blank" href="hhttps://raw.githubusercontent.com/creio/dots/master/docs/screen/ob1.png">
+  <a target="_blank" href="hhttps://raw.githubusercontent.com/creio/dots/master/docs/screen/ob1.png">
     <img align="center" src="https://raw.githubusercontent.com/creio/dots/master/docs/screen/ob1.png" />
   </a> -->
 
