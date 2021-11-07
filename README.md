@@ -1,4 +1,4 @@
-<h1>🤝<code>~/</code></h1>
+<h1>🤝 <code>~/</code></h1>
 
 <!--[![ArchLinux Openbox](https://img.youtube.com/vi/gC5yvQnroRk/0.jpg)](https://www.youtube.com/watch?v=gC5yvQnroRk)
   
