@@ -6,7 +6,7 @@
     <img align="center" src="https://raw.githubusercontent.com/creio/dots/master/docs/screen/ob1.png" />
   </a> -->
 
-- ✨ [Web page](https://cvc.srht.site)
+- ✨ [Web page](https://creio.ctlos.ru)
 - ⚡ [Ctlos Linux](https://ctlos.github.io)
 - 💬 [@cretm](https://t.me/cretm)
 - 💬 [keybase.io/cvc](https://keybase.io/cvc)
