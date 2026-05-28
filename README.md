@@ -6,7 +6,7 @@
     <img align="center" src="https://raw.githubusercontent.com/creio/dots/master/docs/screen/ob1.png" />
   </a> -->
 
-- ✨ [Web page](https://creio.ctlos.ru)
+- ✨ [Web page](https://creio.github.io)
 - ⚡ [Ctlos Linux](https://ctlos.github.io)
 - 💬 [@cretm](https://t.me/cretm)
 - 💬 [keybase.io/cvc](https://keybase.io/cvc)
@@ -14,33 +14,8 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/creio?tab=followers">
-    <img src="https://img.shields.io/github/followers/creio?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://youtube.com/creioyt?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/INOtQJ_yZE4?label=YouTube&logo=YouTube&style=for-the-badge" />
-  </a>
-  <a href="https://www.twitch.tv/creio">
-    <img src="https://img.shields.io/twitch/status/crieo?label=Twitch&logo=twitch&style=for-the-badge" />
-  </a>
-</p>
+[![gh](https://img.shields.io/github/followers/creio?label=GitHub&logo=github&style=for-the-badge)](https://github.com/creio) [![yt](https://img.shields.io/youtube/views/INOtQJ_yZE4?label=YouTube&logo=YouTube&style=for-the-badge)](http://youtube.com/creioyt?sub_confirmation=1) [![twitch](https://img.shields.io/twitch/status/crieo?label=Twitch&logo=twitch&style=for-the-badge)](https://www.twitch.tv/creio)
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=creio&theme=tokyonight">
-  <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=creio&theme=default">
-</picture>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=creio&theme=tokyonight">
-  <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/streak?username=creio&theme=default">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=creio&show_icons=true&theme=tokyonight">
-  <img alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=creio&show_icons=true&theme=default">
-</picture>
-<br>
 <a href="https://github.com/creio/dots">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=creio&repo=dots&theme=tokyonight">
@@ -53,7 +28,25 @@
   <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ctlos&repo=ctlosiso&theme=default">
 </picture>
 </a>
+<br>
+
+<p align="left">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=creio&theme=tokyonight">
+  <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/streak?username=creio&theme=default">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=creio&show_icons=true&theme=tokyonight">
+  <img alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=creio&show_icons=true&theme=default">
+</picture>
 </p>
+
+<!-- <p align="center"> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=creio&theme=tokyonight">
+  <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=creio&theme=default">
+</picture>
+<!-- </p> -->
 
 ---
 
