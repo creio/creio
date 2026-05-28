@@ -26,12 +26,34 @@
   </a>
 </p>
 
-<a href="https://github.com/creio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=creio&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" />
-</a>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=creio&theme=tokyonight">
+  <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=creio&theme=default">
+</picture>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=creio&theme=tokyonight">
+  <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/streak?username=creio&theme=default">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=creio&show_icons=true&theme=tokyonight">
+  <img alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=creio&show_icons=true&theme=default">
+</picture>
+<br>
 <a href="https://github.com/creio/dots">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=creio&repo=dots&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&show_owner=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=creio&repo=dots&theme=tokyonight">
+  <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=creio&repo=dots&theme=default">
+</picture>
 </a>
+<a href="https://github.com/ctlos/ctlosiso">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=ctlos&repo=ctlosiso&theme=tokyonight">
+  <img alt="Top Langs" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ctlos&repo=ctlosiso&theme=default">
+</picture>
+</a>
+</p>
 
 ---
 
